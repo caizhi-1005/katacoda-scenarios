@@ -1,4 +1,6 @@
-A Katacoda course is defined by creating a pathway file. The pathway defines which scenarios should be included in the course and the order to display them.
+Katacoda课程是通过创建路径文件来定义的。路径定义了哪些场景应该包含在课程中，以及显示它们的顺序。
+Course: 指一系列场景的集合
+scenarios：场景
 
 The collection of examples contains two courses, one to describe all the Katacoda content and another to describe the key Katacoda environments.
 

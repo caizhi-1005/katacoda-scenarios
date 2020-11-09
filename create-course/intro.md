@@ -1,3 +1,3 @@
-In this scenario, you will learn how to create a course, a series of Katacoda scenarios collected together. 
+在这个场景中，你将学会如何创建一个课程，一系列Katacoda场景收集在一起。
 
-The advantage of creating a course is the ability to group related scenarios to provide users with a clear explanation and order to complete the content.
+创建课程的优点是能够将相关场景分组，为用户提供清晰的解释和完成内容的顺序。
