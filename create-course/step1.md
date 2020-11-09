@@ -7,7 +7,6 @@ scenarios：场景
 
 克隆官方示例代码仓库命令 `git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{执行}}
 
-Within the root of a repository, a course has been created called `uilayouts`. The contents of the course have been defined as `katacoda-scenario-examples/uilayouts-pathway.json`{{open}}.
 示例代码中，通过json文件找到对应的文件夹，profile-pathway.json，可以看到格式为
 <pre class="file">
 {
@@ -37,4 +36,6 @@ Within the root of a repository, a course has been created called `uilayouts`. T
     ]
   }
 </pre>
-其中，课程（courses)和场景（scenarios）都可以为多个，title为页面显示的题目，description为课程的描述，id则与你自己github仓库中文件夹的名字一一对应，相当于课程文件夹中场景的字典。
+其中，课程（courses)和场景（scenarios）都可以为多个，
+title为页面显示的题目，description为课程的描述，
+id则与你自己github仓库中文件夹的名字一一对应，相当于课程文件夹中场景的字典。
