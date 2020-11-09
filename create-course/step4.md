@@ -1,18 +1,19 @@
-The CLI can be used to add existing scenarios to a course.
+CLI 可将现有的 scenarios 添加到课程中。
 
-You can list your available scenarios, using this command:
+您可以使用以下命令列出可用的方案：
+
 `find ./ -type f | grep index.json`{{execute}}
 
-For example, can add the existing scenario, called *quiz* to the previous created course *test-course* running the following command and follow the steps:
+例如，可以在运行以下命令在先前创建的课程 test-course 中添加称现有方案，并执行以下步骤:
 `katacoda courses:add:scenarios`{{execute}}
 
-The CLI will prompt you a few questions about:
+CLI 将提示您以下问题：:
 - Scenario path: type `./quiz`
 - Course path: type `./test-course`
 
-And then select if you want to copy or move the scenario to the course folder.
+然后选择是否要将 scenario 复制或移动到课程文件夹。
 
-After that, you can see the scenario was added in your `test-course` opening `katacoda-scenario-examples/test-course-pathway.json`{{open}}
+之后，您可以看到 scenario 已添加到 `test-course` opening `katacoda-scenario-examples/test-course-pathway.json`{{open}}
 
 <pre class="file">
 {

@@ -4,19 +4,19 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Pathway Files",
+        "title": "Step 1 - Pathway 文件",
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - Reusing Scenarios",
+        "title": "Step 2 - 重复使用的 Scenarios",
         "text": "step2.md"
       },
       {
-        "title": "Step 3 - Using katacoda CLI to create a course",
+        "title": "Step 3 - 使用 katacoda CLI 创建一个Katacoda课程",
         "text": "step3.md"
       },
       {
-        "title": "Step 4 - Using katacoda CLI to add existing scenarios to a course",
+        "title": "Step 4 - 使用 katacoda CLI 将现有场景添加到课程中",
         "text": "step4.md"
       }
     ],

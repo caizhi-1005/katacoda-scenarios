@@ -1,4 +1,4 @@
-A course can include scenarios in different directories. This allows scenarios to be re-used and re-purposed in different situations.
+一门课程可以包括不同目录中的 scenarios。这使得 scenarios 可以在不同情况下重复利用。
 
 An example of this would be including the following:
 
@@ -11,4 +11,4 @@ An example of this would be including the following:
 },
 </pre>
 
-This would reference the scenario Ubuntu from the environment-usages course.
+将在 environment-usages 课程中引用 Ubuntu 的 scenarios。
