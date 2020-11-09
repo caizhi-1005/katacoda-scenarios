@@ -5,7 +5,7 @@ scenarios：场景
 
 ## 克隆示例代码
 
-克隆官方示例代码仓库命令 `git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{执行}}
+克隆官方示例代码仓库命令 `git clone https://github.com/katacoda/scenario-examples.git katacoda-scenario-examples`{{execute}}
 
 示例代码中，通过json文件找到对应的文件夹，profile-pathway.json，可以看到格式为
 <pre class="file">
